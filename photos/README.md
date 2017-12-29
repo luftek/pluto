@@ -31,3 +31,7 @@ Little space has been wasted.
 I case you're curios, there it is:
 
 ![blank pcb](blank.jpg)
+
+#Blank PCB w/o castellated holes
+
+![blank pcb no cast](blank_no_cast.jpg)
